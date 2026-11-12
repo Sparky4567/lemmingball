@@ -1,4 +1,4 @@
-# Lemming Ball Z — Reborn 3D
+# LB
 
 A browser fighting game inspired by Lemmingball Z, built with Bun, React, TypeScript, and native WebGL. Fly around a destructible arena, fire energy blasts, and battle a CPU opponent or a friend locally. Player 1 supports keyboard and mouse or a standard USB / wireless controller; local Player 2 uses the keyboard.
 
